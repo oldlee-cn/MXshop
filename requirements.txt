@@ -16,7 +16,7 @@ cryptography==2.7
 defusedxml==0.6.0
 diff-match-patch==20181111
 dingtalk-sdk==1.2.8
-Django==2.0
+Django==2.2.10
 django-cors-headers==3.0.2
 django-crispy-forms==1.7.2
 django-filter==2.1.0
